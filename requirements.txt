@@ -1,0 +1,13 @@
+pandas>=2.0.0
+rapidfuzz>=3.0.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-Levenshtein>=0.21.0
+# PostgreSQL для индексирования
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+# Зависимости для preprocessing (опционально, нужны только для подготовки данных)
+osmium>=3.5.0
+shapely>=2.0.0
+tqdm>=4.65.0
+
